@@ -1,0 +1,14 @@
+Archer spells: 
+Spell 1; Roped Arrow  Info: basically a grappling hook. Upgrades: 
+Tier I: First one, you just fly against the arrow when it hits something and deals 50% damage
+Tier II: Same as tier I but deals 75% damage and pushes mobs back. 
+Tier III: Same as the above. But arrows explodes where the roped arrow land. The arrows that explodes does 20%
+Tier IV: Same as above. Arrow does 100% Arrow goes through mobs.
+Tier V: Same as above. When you arrive to the arrow you shot you jump up in the air a bit. You also recieves Speed II for 1 min.
+
+Spell 2; Homing Arrow
+Tier I: Arrow tracks mobs and deal 150% damage. Arrow travels 20 blocks 
+Tier II: Arrow explodes on impact and deals 175%. Arrow travels 30 blocks
+Tier III: Same as above. When mobs are hit by the explosion, they fly up a few blocks and explodes again. 175% + 25% Travel 50 blocks
+Tier IV: Same as above. But fires 2 arrows. Last arrow doesnt launch the player and it does 50% more Travel 50 blocks
+Tier V: Same as above. But the last arrow launches the player down into the ground which causes 
