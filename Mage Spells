@@ -1,0 +1,29 @@
+Mage Spells: 
+
+Spell 1: Time Skip Info: Cast a small projectile and when it stops or hits something, you get teleported there
+Tier I: Goes 10 blocks. 
+Tier II: Teleports 15 blocks. 
+Tier III: Same as above. Freezes mobs when passing through them
+Tier IV: Same as above but deals 20% per second to a mob for 1-4 seconds. Range 20
+Tier V: Instead of passing through enemies. It now swiches place of the mob you aim at and you. Deals 50% damage per second for 1-4 sec. Also freezes them. 
+
+Spell 2: Arcane Missile Info: Fires bolts of arcane magic (crit particles mixed with witch magic)
+Tier I: Deals 75% damage. travels 20 blocks
+Tier II: Deals 100% damage and travels 30 blocks, (stronger particles)
+Tier III: Same as above + tracks down oponents, Like Mana Blast in Wizards
+Tier IV: Same as above. Fires 3 missiles
+Tier V: The missiles inflict heavy slowness and blindness for a few seconds. 
+
+Spell 3: Healing Totem Info: Places a totem that heals allies nearby. 
+Tier I: Totem heals 10% of the health. Radius: 2
+Tier II: Totem heals 20% of your health. And clears potion effects. Radius: 3
+Tier III: Totem heals 20%. Pushes mobs away from the totems radius. Radius: 4
+Tier IV: Same as above but. Gives a small regen buff for a few seconds. 
+Tier V: Same as above. Applies slowness to mobs in the region. Radius: 5
+
+Spell 4: Arcane Aura Info: A small AoE attack bursting off the caster. Debuffing oponents and buffs allies
+Tier I: Gives slowness II and weakness II to mobs inside the attack. Range: 3
+Tier II: Same as above. And deals 50% damage. Range: 3
+Tier III: Same as above. Gives slowness III and weakness III. Gives Strenght II in 30 sec of all players inside. 
+Tier IV: Same as above. Pushes mobs way back. Deals 100% 
+Tier V: Freezes mobs for 5 seconds. And it deals 150%. It also gives strenght II and Resistance II for 30 sec to all players in range. Range: 5
