@@ -1,0 +1,28 @@
+Spells
+Spell 1: Ride the Wind Info: Summon the northern winds to carry you through the sky Energy: 20
+Tier I: Ride the wind for 1 second. Only able to go forwards
+Tier II: Ride it for 1.5. Can now control the wind, able to go up, down, sideways. (if the player goes up, lower the speed so the player doesnt go to high)
+Tier III: Ride it for 2. Mobs around you get pushed around until the spell is finished. 
+Tier IV: Ride it for 3 sec. Mobs around you get trapped in an air tornados.
+Tier V: Ride it for 3 sec. Mobs trapped in the tornados starts to suffocate. And it finish with the tornado launchin the mob dealing 100%.
+
+Spell 2: Water Torrent Info: You fire a torrent of water. Energy: 50
+Tier I: The water torrent is slow and doesnt go very far. But deals 150%.
+Tier II: Goes a bit faster. The water linger around enemies. Dealing 150% + 25%
+Tier III: Goes faster and further. It also freezes enemies putting ice around them for 2 sec. Deals 175%
+Tier IV: Freezes the enemy longer and ice gusts scatter around the ice cube. Freezing enemies. 175%
+Tier V: If you shift during the attack, it turns into an ice beam. When the beam hits an enemy the ice beam explodes into ice spikes and the attack deals 200%. The water beam is the same as before.
+
+Spell 3: Earth Block Info: Pick up earth from the ground and throw it at your enemies. Energy: 50
+Tier I: Throws a single piece of dirt dealing 100%. 
+Tier II: The block is heavier and does 150%. Heavier particles.
+Tier III: The block causes an earthquake (earth particles on the floor) 150% + 50%.
+Tier IV: The block is so powerful so the earthquake launches enemies far away. 200%.
+Tier V: If shifting= Instead of lanching enemies, it traps them midair in an earth prison. If not, same as above. 
+
+Spell 4: Lightning Strike Info: Summon lightning... Energy 75
+Tier I: Shoots a long reached attack, deals 75%.
+Tier II: Shoots an even longer attack dealing 75%
+Tier III: The lightning bounches up to 3 enemies.
+Tier IV: Slows them.
+Tier IV: Deals 100%. Electro control, control the enemies for a while. (if you look up, they will go up, if you look down they will come towards you, if you just look straight forwards they will fly back when the attack is finished)
